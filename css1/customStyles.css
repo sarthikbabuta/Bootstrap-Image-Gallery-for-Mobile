@@ -1,0 +1,11 @@
+.customDiv{
+     margin:3px;
+     min-height:300px;
+     background-color:silver;
+     border-radius:10px;
+     text-align:center;
+     font-size:large;
+}
+.col-xs-3{
+	height: 30%;
+}
